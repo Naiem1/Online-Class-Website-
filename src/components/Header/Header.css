@@ -1,0 +1,7 @@
+.header {
+  height: 300px;
+  width: 100%;
+  background-image: url(../../../src/img/header.jpg);
+  background-size: cover;
+  background-position: center ;
+}
